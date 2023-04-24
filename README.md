@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Fabrizio Zarate</h1>
 <h3 align="center">Desarrollador Frontend y Estudiante de Diseño UX/UI</h3>
 
-- 👨‍💻 Todos mis proyectos estan en [https://fabru-dev.netlify.app](https://fabru-dev.netlify.app)
+- 👨‍💻 Todos mis proyectos estan en [https://fabrudev.netlify.app](https://fabrudev.netlify.app)
 
 - 💬 Preguntame sobre **HTML, CSS, JS, ReactJS**
 
